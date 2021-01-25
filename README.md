@@ -14,3 +14,5 @@ The source files in this repo are up for development! If you want to contribute,
 1. Adding interenet connection
 2. Adding drivers for USB, Aux, and anything else more modern
 3. Heck, why not add a GUI!
+
+(Also, I don't know any Assembly language, so...)
