@@ -1,5 +1,5 @@
 ;
-; MSCODE.ASM -- MSDOS code
+; DFCCODE.ASM -- DFCDOS code
 ;
 
 INCLUDE DOSSEG.ASM
