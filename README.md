@@ -1,7 +1,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="DFC-DOS logo" src="/DFC-DOS.jpg">
 
 # MS-DOS v2.0 Source Code for Continued Development
-This repo contains the original source-code and compiled binaries for MS-DOS v1.25 and MS-DOS v2.0.
+This repo contains the source-code and compiled binaries for DFC-DOS v1.0, but was originally just MS-DOS v2.0.
 
 These are the same files [originally shared at the Computer History Museum on March 25th, 2014]( http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/) and are being (re)published in this repo to make them easier to find, reference-to in external writing and works, and to allow exploration and experimentation for those interested in early PC Operating Systems. I changed the source code to just v2.0. 
 
@@ -13,6 +13,6 @@ The source files in this repo are up for development! If you want to contribute,
 
 1. Adding interenet connection
 2. Adding drivers for USB, Aux, and anything else more modern
-3. Heck, why not add a GUI!
+3. Heck, why not add a GUI (Instead of Windows, Panes?...)!
 
 (Also, I don't know any Assembly language, so...)
