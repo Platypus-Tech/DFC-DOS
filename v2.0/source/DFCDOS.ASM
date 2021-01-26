@@ -1,4 +1,4 @@
-TITLE   Standard MSDOS
+TITLE   Standard DFCDOS
 NAME    MSDOS_2
 
 ; Number of disk I/O buffers
