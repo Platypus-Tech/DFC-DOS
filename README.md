@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="DFC-DOS logo" src="/DFC-DOS.jpg">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Platypus-DOS logo" src="/Platypus DOS.jpg">
 
 # Platypus-DOS: Based on DFC-DOS based on MS-DOS v2.0
 This repo contains the source-code and compiled binaries for Platypus DOS v1.0, which will be used in Platypus OS
